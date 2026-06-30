@@ -82,9 +82,9 @@ Turning data into meaningful business insights.
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=mnakhil&show_icons=true&theme=tokyonight"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnakhil&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -94,7 +94,7 @@ Turning data into meaningful business insights.
 
 📧 anakhil6@gmail.com
 
-💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+💼 LinkedIn: https://linkedin.com/in/mnakhil
 
 ---
 
