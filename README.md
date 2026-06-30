@@ -76,7 +76,11 @@ Data Analyst • Data Scientist • Business Intelligence Enthusiast
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnakhil&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mnakhil&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mnakhil&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
