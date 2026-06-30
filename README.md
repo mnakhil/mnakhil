@@ -75,9 +75,8 @@ Data Analyst • Data Scientist • Business Intelligence Enthusiast
 # 📊 GitHub Stats
 
 <p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=mnakhil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnakhil&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnakhil&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 <p align="center">
@@ -93,14 +92,6 @@ Data Analyst • Data Scientist • Business Intelligence Enthusiast
 - Azure Data Platform
 - Data Engineering
 - Generative AI
-
----
-
-# 📫 Connect With Me
-
-📧 anakhil6@gmail.com
-
-💼 LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
 
 ---
 
