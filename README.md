@@ -1,103 +1,109 @@
 <h1 align="center">Hi 👋, I'm Akhil Nambradath</h1>
 
 <h3 align="center">
-Data Analyst | MSc Data Science | Power BI • SQL • Python
+Data Analyst • Data Scientist • Business Intelligence Enthusiast
 </h3>
 
 <p align="center">
-Turning data into meaningful business insights.
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=Power+BI+%7C+SQL+%7C+Python;Turning+Data+Into+Actionable+Insights;MSc+Data+Science+%40+University+of+Surrey;Always+Learning+Something+New" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=Power+BI+%7C+SQL+%7C+Python;Turning+Data+Into+Actionable+Insights;MSc+Data+Science+%40+University+of+Surrey;Always+Learning+Something+New" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mnakhil/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:anakhil6@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <img src="https://komarev.com/ghpvc/?username=mnakhil&style=for-the-badge&color=0e75b6"/>
 </p>
 
 ---
 
-## 🚀 About Me
+# 🧠 About Me
 
-🎓 MSc Data Science – University of Surrey
-
-📊 3+ years of experience in Data Analytics
-
-🏥 Former Data Analyst at Ashford & St Peter's NHS Foundation Trust
-
-📈 Experienced in Power BI, SQL, Python, Excel & Data Visualization
-
-💡 Passionate about Business Intelligence, Dashboard Development, Data Storytelling and Machine Learning
+- 📊 Data Analyst with **3+ years** of experience
+- 🎓 MSc Data Science — University of Surrey
+- 🏥 Former Data Analyst @ Ashford & St Peter's NHS Foundation Trust
+- 📈 Building dashboards that help people make better decisions
+- 💡 Passionate about Data Analytics, Business Intelligence & Machine Learning
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+### Analytics
 
----
-
-### Data Analytics
-
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=black)
-
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-
-![Qlik](https://img.shields.io/badge/Qlik-009845?style=for-the-badge)
-
----
+<p>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Qlik-009845?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+</p>
 
 ### Database
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+</p>
 
 ---
 
-## 📈 Experience Highlights
+# 🚀 Experience Highlights
 
-✔ Built 5+ Power BI dashboards
-
-✔ Automated executive KPI reporting
-
-✔ Improved reporting accuracy by 15%
-
-✔ Reduced manual reporting from 6 hrs → 2 hrs weekly
-
-✔ Forecasting models using Python & DAX
-
-✔ Data modelling using Power Query
+| Achievement | Impact |
+|-------------|--------|
+| 📊 Built Power BI Dashboards | 5+ Executive Dashboards |
+| ⚡ Automated Reporting | Saved 4 Hours Weekly |
+| 📈 Reporting Accuracy | +15% |
+| 🏥 NHS Analytics | Referral-to-Treatment KPI Monitoring |
+| 🐍 Forecasting Models | Python + DAX |
 
 ---
 
-## 🌱 Currently Learning
+# 📊 GitHub Stats
+
+<p align="center">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=mnakhil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnakhil&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=mnakhil&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🌱 Currently Learning
 
 - Machine Learning
 - Deep Learning
 - Azure Data Platform
 - Data Engineering
-- AI for Analytics
+- Generative AI
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=mnakhil&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnakhil&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 📫 Connect With Me
+# 📫 Connect With Me
 
 📧 anakhil6@gmail.com
 
-💼 LinkedIn: https://linkedin.com/in/mnakhil
+💼 LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
 
 ---
 
-### ⚡ Fun Fact
-
-> "Data tells a story. I help organizations understand it."
+<p align="center">
+<i>"Without data, you're just another person with an opinion."</i>
+</p>
