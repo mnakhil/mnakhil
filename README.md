@@ -28,7 +28,7 @@ Data Analyst • Data Scientist • Business Intelligence Enthusiast
 
 - 📊 Data Analyst with **3+ years** of experience
 - 🎓 MSc Data Science — University of Surrey
-- 🏥 Former Data Analyst @ Ashford & St Peter's NHS Foundation Trust
+- 🏥 Former Data Analyst @ NHS England
 - 📈 Building dashboards that help people make better decisions
 - 💡 Passionate about Data Analytics, Business Intelligence & Machine Learning
 
